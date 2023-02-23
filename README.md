@@ -5,17 +5,21 @@
 	<style>
 		body {
 			background-color: #F2F2F2;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			height: 100vh;
 		}
 		main {
-			margin: 0 auto;
 			max-width: 800px;
 			padding: 20px;
-			text-align: left;
+			text-align: center;
 		}
 	</style>
 </head>
 <body>
-	<h1 style="text-align: left;">Hey there! I'm Bernardo Pastorino.</h1>
+	<h1>Hey there! I'm Bernardo Pastorino.</h1>
 	<h2>A UX Designer from Argentina, currently working at <a href="https://www.meetwithspot.com">Spot</a>.</h2>
 	<p>In the past I had the privilege to work for companies like <a href="https://www.iqvia.com">IQVIA</a>, <a href="https://www.flow.com.ar">Flow</a>, <a href="https://www.estoes.me">Estoes</a> and more.</p>
 		
