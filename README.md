@@ -2,7 +2,7 @@
 <body>
 	<h1>Hey there! I'm Bernardo Pastorino. 👋</h1>
 	
-	<h2>A UX Designer from Argentina, currently working at <a href="https://www.meetwithspot.com" target="_blank">Spot</a>.</h2>
+	<h2>A UX Designer from Argentina, currently working at <a href="https://www.meetwithspot.com" target="_blank">Spot</a></h2>
 	
 	<p>In the past I had the privilege to work for companies like <a href="https://www.iqvia.com" target="_blank">IQVIA</a>, <a href="https://www.estoes.me" target="_blank">Estoes</a> and more.</p>
 		
