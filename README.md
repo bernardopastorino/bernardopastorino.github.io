@@ -16,14 +16,12 @@
 </head>
 <body>
 	<h1 style="text-align: left;">Hey there! I'm Bernardo Pastorino.</h1>
-	<main>
-		<h2>A Product Designer from Argentina, currently working at <a href="https://www.meetwithspot.com">Spot</a>.</h2>
-		<p>This is a paragraph of text on my website.</p>
-		<ul>
-			<li><a href="https://www.example.com">Example Link 2</a></li>
-			<li><a href="https://www.example.com">Example Link 3</a></li>
-			<li><a href="https://www.example.com">Example Link 4</a></li>
-		</ul>
-	</main>
+	<h2>A Product Designer from Argentina, currently working at <a href="https://www.meetwithspot.com">Spot</a>.</h2>
+	<p>This is a paragraph of text on my website.</p>
+	<ul>
+		<li><a href="https://www.example.com">Example Link 2</a></li>
+		<li><a href="https://www.example.com">Example Link 3</a></li>
+		<li><a href="https://www.example.com">Example Link 4</a></li>
+	</ul>
 </body>
 </html>
