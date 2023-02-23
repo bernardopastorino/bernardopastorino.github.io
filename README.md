@@ -15,18 +15,9 @@
 			max-width: 600px;
 			padding: 20px;
 			text-align: center;
-			/* Print styles */
-   	  		@media print {
-      			 .preview-page,
-     			  .markdown-body.entry-content {
-         		margin: 0;
-         		border: 0;
-         		padding: 0;
-       		}
-       		.repository-content > div > h3 {
-         		display: none;
-       }
-     }    
+		}
+		h1 {
+   			 border: 0.5px #F2F2F2;
 		}
 	</style>
 </head>
