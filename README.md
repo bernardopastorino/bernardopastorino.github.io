@@ -10,13 +10,23 @@
 			justify-content: center;
 			align-items: center;
 			height: 100vh;
-			margin: 0;
-			padding: 0;
 		}
 		main {
 			max-width: 600px;
 			padding: 20px;
 			text-align: center;
+			/* Print styles */
+   	  		@media print {
+      			 .preview-page,
+     			  .markdown-body.entry-content {
+         		margin: 0;
+         		border: 0;
+         		padding: 0;
+       		}
+       		.repository-content > div > h3 {
+         		display: none;
+       }
+     }    
 		}
 	</style>
 </head>
