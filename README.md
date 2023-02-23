@@ -1,6 +1,6 @@
 <html>
 <head>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Bernardo Pastorino | UX Designer</title>
 	<style>
 		body {
@@ -10,7 +10,6 @@
 			justify-content: center;
 			align-items: center;
 			height: 100vh;
-			overflow: hidden;
 		}
 		main {
 			max-width: 600px;
