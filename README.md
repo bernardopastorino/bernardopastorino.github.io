@@ -17,11 +17,10 @@
 <body>
 	<h1 style="text-align: left;">Hey there! I'm Bernardo Pastorino.</h1>
 	<h2>A UX Designer from Argentina, currently working at <a href="https://www.meetwithspot.com">Spot</a>.</h2>
-	<p>In the past I had the privilege to work for companies like <a href="https://www.iqvia.com">IQVIA</a>, <a href="https://www.flow.com.ar">Flow</a>, <a href="https://www.estoes.me">Estoes</a> and more.
+	<p>In the past I had the privilege to work for companies like <a href="https://www.iqvia.com">IQVIA</a>, <a href="https://www.flow.com.ar">Flow</a>, <a href="https://www.estoes.me">Estoes</a> and more.</p>
 		
+	<p>You can see my latest work on Behance or reach out to me on LinkedIn.</p>
 		
-		You can see my latest work on Behance or reach out to me on LinkedIn.
-		
-		Do you have awesome projects or just want to say hi? Get it touch.</p>
+	<p>Do you have awesome projects or just want to say hi? Get it touch.</p>
 </body>
 </html>
