@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>My Website</title>
+	<title>Hey there! I'm Bernardo Pastorino.</title>
 	<style>
 		body {
 			font-family: sans-serif;
@@ -76,7 +76,7 @@
 </head>
 <body>
 	<header>
-		<h1>Welcome to My Website!</h1>
+		<h1>Hey there! I'm Bernardo Pastorino.</h1>
 		<nav>
 			<ul>
 				<li><a href="https://www.example.com">Example Link 1</a></li>
@@ -104,7 +104,4 @@
 	</main>
 
 	<footer>
-		<p>&copy; 2023 My Website</p>
-	</footer>
-</body>
-</html>
+		<p>&copy; 
