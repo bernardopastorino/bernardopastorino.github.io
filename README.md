@@ -1,25 +1,4 @@
 <html>
-<head>
-	<title>Bernardo Pastorino | UX Designer</title>
-	<style>
-		body {
-			background-color: #F2F2F2;
-			display: flex;
-			flex-direction: column;
-			justify-content: center;
-			align-items: center;
-			height: 100vh;
-		}
-		main {
-			max-width: 600px;
-			padding: 20px;
-			text-align: center;
-		}
-		h1 {
-   			 border-color: #F2F2F2;
-		}
-	</style>
-</head>
 <body>
 	<h1>Hey there! I'm Bernardo Pastorino. 👋</h1>
 	
