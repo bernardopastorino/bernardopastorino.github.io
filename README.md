@@ -15,17 +15,11 @@
 	</style>
 </head>
 <body>
-	<h1 style="text-align: center;">Hey there! I'm Bernardo Pastorino.</h1>
+	<h1 style="text-align: left;">Hey there! I'm Bernardo Pastorino.</h1>
 	<main>
+		<h2>A Product Designer from Argentina, currently working at <a href="https://www.meetwithspot.com">Spot</a>.</h2>
 		<p>This is a paragraph of text on my website.</p>
 		<ul>
-			<li>List item 1</li>
-			<li>List item 2</li>
-			<li>List item 3</li>
-		</ul>
-		<p>Here are some external links:</p>
-		<ul>
-			<li><a href="https://www.example.com">Example Link 1</a></li>
 			<li><a href="https://www.example.com">Example Link 2</a></li>
 			<li><a href="https://www.example.com">Example Link 3</a></li>
 			<li><a href="https://www.example.com">Example Link 4</a></li>
