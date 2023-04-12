@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h1>Hey there! I'm Bernardo Pastorino. 👋</h1>
+	<h1>Hi! I'm Bernardo Pastorino. 👋</h1>
 	
 	<h2>A UX Designer from Argentina, currently working at <a href="https://www.meetwithspot.com" target="_blank">Spot</a>.</h2>
 	
