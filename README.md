@@ -2,7 +2,7 @@
 <body>
 	<h1>Hi there! I'm Bernardo Pastorino. 👋</h1>
 	
-	<h2>A UX Designer from Argentina, currently working at <a href="https://www.leadsimple.com" target="_blank">LeadSimple</a>.</h2>
+	<h2>A Product Designer from Argentina, currently working at <a href="https://www.leadsimple.com" target="_blank">LeadSimple</a>.</h2>
 	
 	<p>I help startups and Fortune 500 companies bring new products to market, from ideation to execution.</p> 
  
