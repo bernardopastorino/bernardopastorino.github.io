@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h1>Hi there! I'm Bernardo Pastorino. 👋</h1>
+	<h1>Hi there! I'm Bernie 👋</h1>
 	
 	<h2>A Product Designer from Argentina, currently working at <a href="https://www.leadsimple.com" target="_blank">LeadSimple</a>.</h2>
 	
