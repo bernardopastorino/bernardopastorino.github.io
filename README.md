@@ -2,11 +2,11 @@
 <body>
 	<h1>Hey there! I'm Bernie 👋</h1>
 	
-	<h2>Product Designer from Argentina, currently working at <a href="https://www.leadsimple.com" target="_blank">LeadSimple</a>.</h2>
+	<h2>Product Designer from Argentina, currently working at <a href="https://www.meocontinuity.com" target="_blank">MEO</a>.</h2> 
 	
 	<p>I help startups and Fortune 500 companies bring new products to market, from ideation to execution.</p> 
  
- 	<p>In the past I had the privilege to work for companies like <a href="https://www.upcraft.ai" target="_blank">Upcraft</a>, <a href="https://www.iqvia.com" target="_blank">IQVIA</a> and more.</p>
+ 	<p>In the past I had the privilege to work for companies like <a href="https://www.leadsimple.com" target="_blank">LeadSimple</a>, <a href="https://www.upcraft.ai" target="_blank">Upcraft</a>, <a href="https://www.iqvia.com" target="_blank">IQVIA</a> and more.</p>
 		
 	<p>You can reach out to me on <a href="https://www.linkedin.com/in/bernardo-pastorino/" target="_blank">LinkedIn</a>, check my <a href="https://drive.google.com/file/d/1bpaSsSoC3vghsNna9zqZffSco8s-Nykz/view?usp=sharing" target="_blank">resume</a> or <a href="mailto:bernardo.pastorino@gmail.com?subject=Portfolio access request&body=Hi, I would like access to your portfolio!">request access to my portfolio</a>.</p>
 		
